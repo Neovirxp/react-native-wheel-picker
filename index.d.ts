@@ -47,6 +47,10 @@ export interface PickerProps<ItemValue> extends ViewProps {
      * @platform android
      */
     textColor?: ColorValue;
+       /**
+     * @platform android
+     */
+        selectedTextColor?: ColorValue;
     /**
      * @platform android
      */

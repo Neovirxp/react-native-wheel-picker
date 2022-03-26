@@ -1,5 +1,5 @@
 {
-  "name": "@gregfrench/react-native-wheel-picker",
+  "name": "@uynguyen505/react-native-wheel-picker",
   "version": "1.2.18",
   "description": "React native cross platform picker.",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/GregFrench/react-native-wheel-picker.git"
+    "url": "git+https://github.com/GregFrench/react-native-wheel-picker.git"
   },
   "keywords": [
     "react-native",
